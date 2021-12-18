@@ -1,0 +1,25 @@
+@import '~@ag-grid-community/all-modules/dist/styles/ag-grid.css';
+@import '~@ag-grid-community/all-modules/dist/styles/ag-theme-balham.css';
+@import 'antd/dist/antd.css';
+
+.jobContainer {
+  height: 100%;
+  padding: 10px;
+  overflow: hidden;
+}
+
+.jobTableHeader {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.jobReport {
+  padding: 10px;
+}
+
+.centered {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
